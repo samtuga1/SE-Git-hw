@@ -1,1 +1,1 @@
-print("I eat apple, apple is my favorite fruit!")
+print("I eat apple, apple is one of my favorite fruit!")

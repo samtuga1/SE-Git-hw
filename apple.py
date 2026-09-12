@@ -1,1 +1,1 @@
-print("I eat mango, mango is my favorite fruit!")
+print("Hi my name is Wasif, I like to eat apple and banana.")
